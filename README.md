@@ -57,6 +57,8 @@ All reports are useful, but to make sure there is no ambiguity and that we can e
 
 ```
 
+You can find the site version by opening up your developer tools (RightClick > Inspect, or `CTRL-SHIFT-I`) and reading the *Console* output to get the site version
+
 Feel free to include things like debugger logs too if you're able to generate them with the issue.  More is always better!
 
 -----
